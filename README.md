@@ -1,3 +1,208 @@
+
+
+<div align="center">
+
+# 👋 Hey, I'm **Abdullah Javed**
+
+### `@Potato7711` · Full-Stack Developer · Builder · Creator
+
+**I build things, break things, learn from them, and build them better.**
+
+<br/>
+
+<a href="https://github.com/Potato7711">
+  <img src="https://img.shields.io/badge/GitHub-Potato7711-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="mailto:abdullahsjourney365@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=potato7711&label=Profile%20Views&color=6366f1&style=for-the-badge" />
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+I'm a **full-stack developer from Pakistan** who enjoys turning ideas into real products.
+
+I'm especially interested in:
+
+* 🚀 Building full-stack web applications
+* 🧠 Learning new technologies by actually building with them
+* ⚙️ Automation and developer tools
+* 🎨 UI/UX and product design
+* 🌐 Building products that solve real problems
+* 📈 Turning side projects into something people actually use
+
+> **I don't just want to write code — I want to build things that matter.**
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Potato7711&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Potato7711&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Potato7711&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🟩 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Potato7711&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Potato7711&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" />
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Potato7711">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Potato7711&repo=Malfen&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Potato7711">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Potato7711&repo=HumCare&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+### 🟤 Malfen
+
+A project I'm currently building and continuously improving.
+
+**Focus:** Product development · Web · Automation · Growth
+
+### 💙 HumCare
+
+A project focused on building a useful platform around a real-world idea.
+
+**Focus:** Full-stack development · Product design · User experience
+
+> ⭐ Check out my repositories to see what I'm currently building.
+
+---
+
+# 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,cs,cpp,c,dart,kotlin" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,tailwind,flutter" />
+</p>
+
+### Backend & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,dotnet,mongodb,mysql,postgresql,firebase" />
+</p>
+
+### DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,aws,postman,vscode" />
+</p>
+
+### Design & Creative Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma,blender,ps,ai,xd" />
+</p>
+
+---
+
+# 📈 My Development Philosophy
+
+```text
+Idea
+  ↓
+Build
+  ↓
+Break
+  ↓
+Debug
+  ↓
+Learn
+  ↓
+Improve
+  ↓
+Ship 🚀
+```
+
+I believe the fastest way to learn is to **build real things**.
+
+---
+
+# 🔥 Currently
+
+|                  |                                         |
+| ---------------- | --------------------------------------- |
+| 🔭 Building      | **Malfen**                              |
+| 🌱 Learning      | **Content Creation & New Technologies** |
+| 👯 Collaborating | **HumCare**                             |
+| 💬 Ask me about  | **Full-Stack Development**              |
+| ⚡ Fun fact       | **I'm an athlete**                      |
+
+---
+
+# 📫 Let's Connect
+
+<div align="center">
+
+<a href="mailto:abdullahsjourney365@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/Potato7711">
+<img src="https://img.shields.io/badge/GitHub-Potato7711-181717?style=for-the-badge&logo=github" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### ⭐ If you find something useful here, consider giving it a star!
+
+**Thanks for visiting my profile. 🚀**
+
+</div>
 <h1 align="center">Hi 👋, I'm Abdullah Javed</h1>
 <h3 align="center">A passionate Software Engineer from Paksitan</h3>
 
