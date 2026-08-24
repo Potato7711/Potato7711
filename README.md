@@ -14,7 +14,7 @@
 
 **Full-Stack Developer · Builder · Creator**
 
- I turn random ideas into real software.
+> I turn random ideas into real software.
 
 <br>
 
